@@ -1,2 +1,2 @@
 # student-portfolio-management-system
-A web-based portfolio management system for creating, managing, and showcasing user portfolios.
+A web application concept for managing student portfolios and creating a bridge between juniors and seniors through a centralized platform.
